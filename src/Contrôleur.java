@@ -17,6 +17,8 @@ public class Contrôleur implements ActionListener {
 		refModl.incrémente();
 		System.out.println("hello");
 	}
-
+	public void xboxone(String s) {
+		System.out.println(s);
+	}
 	
 }
