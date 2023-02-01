@@ -2,7 +2,7 @@
 import java.util.Observable;
 
 public class Modèle extends Observable {
-
+	//C'est super
 	int compte;
 	
 	public Modèle() {
