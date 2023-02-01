@@ -18,7 +18,7 @@ public class Application extends Frame implements WindowListener{
 		modl.addObserver(vue);
 		vue.addActionListener(ctrl);
 		this.addWindowListener(this);
-		this.setTitle("tutoriel git");
+		this.setTitle("le Git que je pull est très con");
 		this.add(vue);
 		this.pack();
 		this.setVisible(true);
