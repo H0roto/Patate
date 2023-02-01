@@ -8,6 +8,7 @@ public class Contrôleur implements ActionListener {
 	
 	public Contrôleur(Modèle m) {
 		this.refModl = m;
+		System.out.println("florian est sympa");
 	}
 	
 	@Override
