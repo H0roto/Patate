@@ -22,6 +22,7 @@ public class Application extends Frame implements WindowListener{
 		this.add(vue);
 		this.pack();
 		this.setVisible(true);
+		setLocationRelativeTo(null);
 	}
 
 	@Override
