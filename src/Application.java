@@ -18,7 +18,7 @@ public class Application extends Frame implements WindowListener{
 		modl.addObserver(vue);
 		vue.addActionListener(ctrl);
 		this.addWindowListener(this);
-		this.setTitle("J'aime les patates et ce sera mon titre qui restera");
+		this.setTitle("tous le monde est content);
 		this.add(vue);
 		this.pack();
 		this.setVisible(true);
