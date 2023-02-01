@@ -17,5 +17,7 @@ public class Contrôleur implements ActionListener {
 		refModl.incrémente();
 	}
 
-	
+	public void bonjour() {
+		System.out.println("teamwork makes the dream work");
+	}
 }
