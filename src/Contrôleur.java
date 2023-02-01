@@ -4,7 +4,9 @@ import java.awt.event.ActionListener;
 
 public class Contrôleur implements ActionListener {
 
+	//j'ai rajouté un commentaire
 	Modèle refModl;
+	
 	
 	public Contrôleur(Modèle m) {
 		this.refModl = m;
